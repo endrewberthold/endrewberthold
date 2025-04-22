@@ -8,4 +8,4 @@ contato: {
      instagram: "https://www.instagram.com/endrewberthold/" 
     } 
  };
-     console.log("Bem vindo ao meu GitHub."); </code></pre>
+     console.log("Estudando de Desenvolvimento de Software Full-Stack, seja bem vindo ao meu Github."); </code></pre>
