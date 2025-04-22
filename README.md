@@ -3,15 +3,18 @@
 const endrew = {
 nome: "Endrew Berthold",
 stack: ["Full"], 
+description: "Atuo na área de TI como assistente e estou migrando para área de desenvolvimento \n\
+     com objetivo de Full-stack, atualmente faço parte da jornada de aprendizado no curso de \n\
+     Desenvolvedor Full-Stack da +PraTI, a caminho de grandes feitos. Sou autoditada e com forte \n\
+     senso estético, cada aspécto da minha personalidade reflete no meu trabalho.",     
 contato: {
      linkedin: "https://www.linkedin.com/in/endrew-berthold-9a26b8254/",
      instagram: "https://www.instagram.com/endrewberthold/" 
     } 
  };
-     console.log("Seja bem vindo ao meu ambiente. Atuo na área de TI como assistente e estou migrando para área de
-     desenvolvimento com objetivo de Full-stack, atualmente faço parte da jornada de aprendizado da 
-     [https://www.maisprati.com.br/](url), no curso de Desenvolvedor Full-Stack, a caminho de grandes feitos.
-     Sou autoditada e com forte senso estético, cada aspécto da minha personalidade reflete no meu trabalho."); </code></pre>
+     
+console.log("Seja bem vindo ao meu ambiente.");
+</code></pre>
 
 ### GitHub Stats
 
