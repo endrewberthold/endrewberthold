@@ -3,7 +3,7 @@
 
 ---
 
-###Tecnologias que uso no dia a dia
+### Tecnologias que uso no dia a dia
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,12 +17,12 @@
 
 ---
 
-###Sobre mim
+### Sobre mim
 Sou um entusiasta da tecnologia com experiência em desenvolvimento de sistemas, automação com scripts e edição gráfica. Gosto de explorar soluções que misturam código, arte e produtividade.
 
 ---
 
-###GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endrewberthold&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -31,7 +31,7 @@ Sou um entusiasta da tecnologia com experiência em desenvolvimento de sistemas,
 
 ---
 
-###Conecte-se comigo!
+### Conecte-se comigo!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endrew-berthold-9a26b8254/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/endrewberthold/)
