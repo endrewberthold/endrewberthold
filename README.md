@@ -2,14 +2,13 @@
 <pre lang="js"><code>
 const endrew = {
 nome: "Endrew Berthold",
-stack: ["JavaScript", "Java", "HTML", "CSS", "Shell Scripting", "Git", "Linux"],
-design: ["Photoshop", "Illustrator"], 
+stack: ["Full"], 
 contato: {
      linkedin: "https://www.linkedin.com/in/endrew-berthold-9a26b8254/",
      instagram: "https://www.instagram.com/endrewberthold/" 
     } 
  };
-     console.log("Estudante de Desenvolvimento de Software com objetivo em Full-Stack, seja bem vindo ao meu Github."); </code></pre>
+     console.log("Seja bem vindo ao meu ambiente. Atuo na área de TI como assistente e estou migrando para área de desenvolvimento com objetivo de Full-stack, atualmente faço parte da jornada de aprendizado da [https://www.maisprati.com.br/](url), no curso de Desenvolvedor Full-Stack, a caminho de grandes feitos. Sou autoditada e com forte senso estético, cada aspécto da minha personalidade reflete no meu trabalho."); </code></pre>
 
 ### GitHub Stats
 
