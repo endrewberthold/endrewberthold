@@ -52,11 +52,13 @@ console.log("Seja bem vindo ao meu ambiente.");
       <img src="https://cdn.simpleicons.org/gunicorn/499848" height="30" alt="Gunicorn"/>   
     </td>
     <td valign="top" align="center">
-      <p><code>data</code></p><br>    
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana"/><br>
-      <img src="https://cdn.simpleicons.org/automation/499848" height="30" alt="Scada-LTS"/>
-    </td>      
+      <td valign="top" align="center">
+  <p><code>data</code></p><br>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana"/><br>
+  <img src="https://img.icons8.com/ios-filled/50/automation.png" height="30" alt="SCADA"/>
+</td>
+     
   </tr>
 </table>
 
