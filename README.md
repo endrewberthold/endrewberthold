@@ -45,6 +45,7 @@ console.log("Seja bem vindo ao meu ambiente.");
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="Photoshop"/><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="Illustrator"/><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="GIMP"/>
+      <img src="https://cdn.simpleicons.org/inkscape/000000" height="30" alt="Inkscape"/><br>
     </td>
     <td valign="top" align="center">
        <p><code>deploy</code></p><br>    
