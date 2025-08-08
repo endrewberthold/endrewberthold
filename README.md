@@ -28,11 +28,14 @@ console.log("Seja bem vindo ao meu ambiente.");
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
     </td>
     <td valign="top" align="center">
     <p><code>back</code></p><br>     
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot"/>
     </td>
     <td valign="top" align="center">
     <p><code>script</code></p><br> 
@@ -48,9 +51,10 @@ console.log("Seja bem vindo ao meu ambiente.");
       <img src="https://cdn.simpleicons.org/inkscape/000000" height="30" alt="Inkscape"/><br>
     </td>
     <td valign="top" align="center">
-       <p><code>deploy</code></p><br>    
+       <p><code>devOps</code></p><br>    
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="Nginx"/><br>
-      <img src="https://cdn.simpleicons.org/gunicorn/499848" height="30" alt="Gunicorn"/>   
+      <img src="https://cdn.simpleicons.org/gunicorn/499848" height="30" alt="Gunicorn"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
     </td>
     <td valign="top" align="center">
        <p><code>data</code></p><br>    
